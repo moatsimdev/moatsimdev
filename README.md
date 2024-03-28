@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js and Express**
 
-- 👨‍💻 All of my projects are available at [https://protofile-moatsim.moatsim1.repl.co](https://protofile-moatsim.moatsim1.repl.co)
+- 👨‍💻 All of my projects are available at [https://moatsimdev.github.io/Moatsim](https://moatsimdev.github.io/Moatsim)
 
 - 📫 How to reach me **matsma14176@gmail.com**
 
