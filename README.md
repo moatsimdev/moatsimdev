@@ -25,9 +25,6 @@
 <div> 
   <a href="https://github.com/moatsimdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
-  
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moatsimdev&theme=2077" height="180em" />
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moatsimdev&show_icons=true&locale=en&layout=compact" alt="moatsimdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moatsimdev&" alt="moatsimdev" /></p>
