@@ -32,7 +32,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moatsimdev&" alt="moatsimdev" /></p>
 
 </div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/moatsimdev">
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moatsimdev&theme=2077" height="180em" />
 </div>
