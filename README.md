@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/moatsim_dev" target="blank"><img src="https://img.shields.io/twitter/follow/moatsim_dev?logo=twitter&style=for-the-badge" alt="moatsim_dev" /></a> </p>
 # 💫 About Me:
 
-- 🌱 I’m currently learning **Node.js and Express**
+- 🌱 I’m currently learning **Node.js, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://moatsimdev.github.io/Moatsim](https://moatsimdev.github.io/Moatsim)
 
