@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Node.js, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://moatsimdev.github.io/Moatsim](https://moatsimdev.github.io/Moatsim)
-
 - 📫 How to reach me **matsma14176@gmail.com**
 
 ## 🌐 Socials:
